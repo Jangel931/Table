@@ -7,7 +7,7 @@ Table of Presidents
   ,th>Last Name/th>
   ,th>Years in Offic</th>
   </tr>
-  <George>
-  <Washington>
+  <George<td>
+  <Washington<td>
     
   
